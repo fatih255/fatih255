@@ -7,7 +7,7 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatih-inci-871586143/" height="30" width="40" />
     </a>
   </p>
-  <div stlye="display:flex; flex-direction:column">
+  <div style="display:flex; flex-direction:column">
       <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
