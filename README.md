@@ -6,10 +6,23 @@ I spent nearly 4 years at Popupsmart. I joined as a frontend developer and grew 
 
 I mostly work with TypeScript, React, Next.js, Preact, Node.js, GraphQL, ClickHouse, AWS and Cloudflare. Lately I've been spending a lot of time on LLM integrations, Claude Code and n8n automations.
 
-Most of my code lives in private repositories, so there isn't much to see here. I write about what I work on at [fatihinci.com](https://fatihinci.com).
+Most of my code lives in private repositories. You can read what I worked on, with the problem and what I'd do differently, on my [experience page](https://fatihinci.com/experience/).
 
 I'm looking for a full-stack role, remote or hybrid.
 
-- Website: [fatihinci.com](https://fatihinci.com)
+## Recent writing
+
+<!-- BLOG-POST-LIST:START -->
+- [TypeSafe Jev Benchmark: Small-LLM Accuracy, Much Faster](https://fatihinci.com/blog/typesafe-jev-benchmark/)
+- [What Is WebMCP? Giving AI Agents Tools From Your Page](https://fatihinci.com/blog/what-is-webmcp/)
+- [When Prompt Caching Stops Paying on Low Traffic](https://fatihinci.com/blog/prompt-caching-low-traffic/)
+- [Terraform for a Cloudflare Pages Site: What It Manages](https://fatihinci.com/blog/terraform-cloudflare-pages-site/)
+- [SMS OTP with Express and Twilio Verify: the full flow](https://fatihinci.com/blog/express-twilio-verify-otp/)
+<!-- BLOG-POST-LIST:END -->
+
+More at [fatihinci.com](https://fatihinci.com).
+
+## Contact
+
 - LinkedIn: [linkedin.com/in/fatih-inci](https://www.linkedin.com/in/fatih-inci/)
 - Email: [fatih969692@gmail.com](mailto:fatih969692@gmail.com)
