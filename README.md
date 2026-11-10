@@ -6,7 +6,7 @@ I spent nearly 4 years at Popupsmart. I joined as a frontend developer and grew 
 
 I mostly work with TypeScript, React, Next.js, Preact, Node.js, GraphQL, ClickHouse, AWS and Cloudflare. Lately I've been spending a lot of time on LLM integrations, Claude Code and n8n automations.
 
-Most of my code lives in private repositories. You can read what I worked on, with the problem and what I'd do differently, on my [experience page](https://fatihinci.com/experience/).
+The work I did at Popupsmart lives in private repositories. The pinned repos below are small, from-scratch versions of the same patterns, each with tests and screenshots. You can read what I worked on, with the problem and what I'd do differently, on my [experience page](https://fatihinci.com/experience/).
 
 I'm looking for a full-stack role, remote or hybrid.
 
