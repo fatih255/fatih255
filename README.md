@@ -13,11 +13,11 @@ I'm looking for a full-stack role, remote or hybrid.
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [socks5 vs socks5h vs HTTP Proxy: Who Resolves DNS](https://fatihinci.com/blog/socks5-vs-socks5h-vs-http-proxy/)
 - [TypeSafe Jev Benchmark: Small-LLM Accuracy, Much Faster](https://fatihinci.com/blog/typesafe-jev-benchmark/)
 - [What Is WebMCP? Giving AI Agents Tools From Your Page](https://fatihinci.com/blog/what-is-webmcp/)
-- [When Prompt Caching Stops Paying on Low Traffic](https://fatihinci.com/blog/prompt-caching-low-traffic/)
+- [When Claude Prompt Caching Stops Paying on Low Traffic](https://fatihinci.com/blog/prompt-caching-low-traffic/)
 - [Terraform for a Cloudflare Pages Site: What It Manages](https://fatihinci.com/blog/terraform-cloudflare-pages-site/)
-- [SMS OTP with Express and Twilio Verify: the full flow](https://fatihinci.com/blog/express-twilio-verify-otp/)
 <!-- BLOG-POST-LIST:END -->
 
 More at [fatihinci.com](https://fatihinci.com).
